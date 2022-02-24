@@ -52,8 +52,8 @@
 <h2>📊 My Github Stats</h2>
 
   <br/>
-  <div align="center"><img alt="Boren Mon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BorenMon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></div>
-  <div align="center"><img alt="Boren Mon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorenMon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></div>
+  <div align="center"><img alt="Vibol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vibol&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></div>
+  <div align="center"><img alt="Vibol's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibol&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></div>
   <br/>
   <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<div align="center"><img alt="Boren Mon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BorenMon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></div>
+<div align="center"><img alt="Vibol's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BorenMon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></div>
 
 <br/>
 <br/>
@@ -69,8 +69,8 @@
 ## Connect with me
 <p align="left">
 
-<a target="_blank" href="https://www.facebook.com/BorenMon7"><img height="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
-<a target="_blank" href="https://www.instagram.com/bore__mon/"><img height="32" src="https://simple-icon.netlify.app/instagram.svg"/></a>
+<a target="_blank" href="https://www.facebook.com/LyVibol"><img height="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
+<a target="_blank" href="https://www.instagram.com/ly_vibol/"><img height="32" src="https://simple-icon.netlify.app/instagram.svg"/></a>
 
 </p>
 
