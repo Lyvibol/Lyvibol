@@ -69,7 +69,7 @@
 ## Connect with me
 <p align="left">
 
-<a target="_blank" href="https://www.facebook.com/LyVibol"><img height="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
+<a target="_blank" href="https://m.facebook.com/vibolvibol.2016"><img height="32" src="https://simple-icon.netlify.app/facebook.svg"/></a>
 <a target="_blank" href="https://www.instagram.com/ly_vibol/"><img height="32" src="https://simple-icon.netlify.app/instagram.svg"/></a>
 
 </p>
